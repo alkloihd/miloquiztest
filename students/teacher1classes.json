@@ -1,0 +1,37 @@
+{
+    "classes": [
+      {
+        "grade": 5,
+        "className": "Grade 5 - Ms. Smith",
+        "students": [
+          { "firstName": "Alice", "lastName": "Anderson", "password": "alice.anderson" },
+          { "firstName": "Bob", "lastName": "Brown", "password": "bob.brown" },
+          { "firstName": "Carol", "lastName": "Clark", "password": "carol.clark" },
+          { "firstName": "David", "lastName": "Davis", "password": "david.davis" },
+          { "firstName": "Eve", "lastName": "Evans", "password": "eve.evans" },
+          { "firstName": "Frank", "lastName": "Foster", "password": "frank.foster" },
+          { "firstName": "Grace", "lastName": "Green", "password": "grace.green" },
+          { "firstName": "Hank", "lastName": "Harris", "password": "hank.harris" },
+          { "firstName": "Ivy", "lastName": "Irwin", "password": "ivy.irwin" },
+          { "firstName": "Jack", "lastName": "Johnson", "password": "jack.johnson" }
+        ]
+      },
+      {
+        "grade": 6,
+        "className": "Grade 6 - Mr. Brown",
+        "students": [
+          { "firstName": "Kevin", "lastName": "King", "password": "kevin.king" },
+          { "firstName": "Laura", "lastName": "Lee", "password": "laura.lee" },
+          { "firstName": "Mike", "lastName": "Miller", "password": "mike.miller" },
+          { "firstName": "Nina", "lastName": "Nelson", "password": "nina.nelson" },
+          { "firstName": "Oscar", "lastName": "Owens", "password": "oscar.owens" },
+          { "firstName": "Pam", "lastName": "Parker", "password": "pam.parker" },
+          { "firstName": "Quinn", "lastName": "Quincy", "password": "quinn.quincy" },
+          { "firstName": "Rachel", "lastName": "Roberts", "password": "rachel.roberts" },
+          { "firstName": "Steve", "lastName": "Smith", "password": "steve.smith" },
+          { "firstName": "Tina", "lastName": "Turner", "password": "tina.turner" }
+        ]
+      }
+    ]
+  }
+  
