@@ -1,0 +1,203 @@
+{
+    "quizTitle": "Human Body Systems Assessment",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fillInTheBlank",
+        "question": "1. The _____ system is responsible for transporting blood throughout the body, while the _____ system is responsible for gas exchange.",
+        "answers": ["circulatory", "respiratory"]
+      },
+      {
+        "id": 2,
+        "type": "fillInTheBlank",
+        "question": "2. The _____ system helps regulate hormones, and the _____ system breaks down food into nutrients.",
+        "answers": ["endocrine", "digestive"]
+      },
+      {
+        "id": 3,
+        "type": "fillInTheBlank",
+        "question": "3. If the _____ system affecting the _____ system fails, it can lead to insufficient oxygen in the blood.",
+        "answers": ["respiratory", "circulatory"]
+      },
+      {
+        "id": 4,
+        "type": "fillInTheBlank",
+        "question": "4. The _____ system includes organs like the heart and blood vessels, while the _____ system includes the lungs and trachea.",
+        "answers": ["circulatory", "respiratory"]
+      },
+      {
+        "id": 5,
+        "type": "fillInTheBlank",
+        "question": "5. The _____ system helps to fight infections and maintain immunity, while the _____ system is involved in movement and support.",
+        "answers": ["immune", "musculoskeletal"]
+      }, 
+      {
+        "id": 10,
+        "type": "trueFalse",
+        "question": "1. The circulatory system is responsible for gas exchange.",
+        "answer": false
+      },
+      {
+        "id": 11,
+        "type": "trueFalse",
+        "question": "2. The respiratory system includes the heart and blood vessels.",
+        "answer": false
+      },
+      {
+        "id": 12,
+        "type": "trueFalse",
+        "question": "3. The endocrine system regulates hormones.",
+        "answer": true
+      },
+      {
+        "id": 13,
+        "type": "trueFalse",
+        "question": "4. The digestive system breaks down food into nutrients.",
+        "answer": true
+      },
+      {
+        "id": 14,
+        "type": "trueFalse",
+        "question": "5. The immune system helps to fight infections.",
+        "answer": true
+      },
+      {
+        "id": 15,
+        "type": "trueFalse",
+        "question": "6. The skeletal system supports body posture.",
+        "answer": true
+      },
+      {
+        "id": 16,
+        "type": "trueFalse",
+        "question": "7. The nervous system controls the body's responses to external stimuli.",
+        "answer": true
+      },
+      {
+        "id": 17,
+        "type": "trueFalse",
+        "question": "8. The respiratory system and circulatory system do not interact.",
+        "answer": false
+      },
+      {
+        "id": 18,
+        "type": "trueFalse",
+        "question": "9. The integumentary system helps regulate body temperature.",
+        "answer": true
+      },
+      {
+        "id": 19,
+        "type": "trueFalse",
+        "question": "10. The reproductive system is responsible for nutrient absorption.",
+        "answer": false
+      },
+  
+      {
+        "id": 20,
+        "type": "shortAnswer",
+        "question": "1. Explain the function of the circulatory system and its importance for overall health."
+      },
+      {
+        "id": 21,
+        "type": "shortAnswer",
+        "question": "2. Describe how the respiratory and circulatory systems interact."
+      },
+      {
+        "id": 22,
+        "type": "shortAnswer",
+        "question": "3. What happens if the digestive system fails?"
+      },
+      {
+        "id": 23,
+        "type": "shortAnswer",
+        "question": "4. How does the endocrine system regulate body functions?"
+      },
+      {
+        "id": 24,
+        "type": "shortAnswer",
+        "question": "5. Explain the role of the immune system in maintaining health."
+      },
+      {
+        "id": 25,
+        "type": "shortAnswer",
+        "question": "6. List and describe the major human body systems."
+      },
+      {
+        "id": 26,
+        "type": "shortAnswer",
+        "question": "7. Choose and explain how two different body systems interact with each other."
+      },
+  
+      {
+        "id": 27,
+        "type": "multipleChoice",
+        "question": "1. Which system is primarily responsible for transporting oxygen throughout the body?",
+        "options": ["Respiratory System", "Circulatory System", "Digestive System", "Nervous System"],
+        "answer": "Circulatory System"
+      },
+      {
+        "id": 28,
+        "type": "multipleChoice",
+        "question": "2. What is the main function of the endocrine system?",
+        "options": ["Transporting nutrients", "Regulating hormones", "Breaking down food", "Protecting the body"],
+        "answer": "Regulating hormones"
+      },
+      {
+        "id": 29,
+        "type": "multipleChoice",
+        "question": "3. Which system works closely with the skeletal system to facilitate movement?",
+        "options": ["Muscular System", "Respiratory System", "Immune System", "Circulatory System"],
+        "answer": "Muscular System"
+      },
+      {
+        "id": 30,
+        "type": "multipleChoice",
+        "question": "4. What system is responsible for protecting the body from external threats?",
+        "options": ["Integumentary System", "Digestive System", "Endocrine System", "Nervous System"],
+        "answer": "Integumentary System"
+      },
+      {
+        "id": 31,
+        "type": "multipleChoice",
+        "question": "5. Which of the following is NOT a function of the respiratory system?",
+        "options": ["Gas exchange", "Regulating body temperature", "Removing carbon dioxide", "Breathing"],
+        "answer": "Regulating body temperature"
+      },
+      {
+        "id": 32,
+        "type": "multipleChoice",
+        "question": "6. The nervous system includes which of the following?",
+        "options": ["Brain and spinal cord", "Heart and blood vessels", "Stomach and intestines", "Skin and hair"],
+        "answer": "Brain and spinal cord"
+      },
+      {
+        "id": 33,
+        "type": "multipleChoice",
+        "question": "7. What is a primary role of the immune system?",
+        "options": ["Transporting oxygen", "Fighting infections", "Digesting food", "Regulating hormones"],
+        "answer": "Fighting infections"
+      },
+      {
+        "id": 34,
+        "type": "multipleChoice",
+        "question": "8. Which system helps maintain the balance of water and chemicals in the body?",
+        "options": ["Urinary System", "Respiratory System", "Circulatory System", "Endocrine System"],
+        "answer": "Urinary System"
+      },
+      {
+        "id": 35,
+        "type": "multipleChoice",
+        "question": "9. What system is responsible for producing blood cells?",
+        "options": ["Skeletal System", "Muscular System", "Nervous System", "Endocrine System"],
+        "answer": "Skeletal System"
+      },
+      {
+        "id": 36,
+        "type": "multipleChoice",
+        "question": "10. How does the endocrine system influence the body?",
+        "options": ["By controlling muscle movements", "By releasing hormones", "By filtering blood", "By digesting food"],
+        "answer": "By releasing hormones"
+      }
+    ]
+  }
+  
