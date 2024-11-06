@@ -1,0 +1,27 @@
+[
+    {
+      "textFile": "grade5humanbody1.txt",
+      "worksheetFile": "grade5humanbody1_worksheet.json"
+    },
+    {
+      "textFile": "grade6biodiversity1.txt",
+      "worksheetFile": "grade6biodiversity1_worksheet.json"
+    },
+    {
+      "textFile": "grade7geography1.txt",
+      "worksheetFile": "grade7geography1_worksheet.json"
+    },
+    {
+      "textFile": "grade7history1.txt",
+      "worksheetFile": "grade7history1_worksheet.json"
+    },
+    {
+      "textFile": "grade11law.txt",
+      "worksheetFile": "grade11law_worksheet.json"
+    },
+    {
+      "textFile": "grade11law2.txt",
+      "worksheetFile": "grade11law2_worksheet.json"
+    }
+  ]
+  
