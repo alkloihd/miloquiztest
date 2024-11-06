@@ -1,0 +1,24 @@
+# Canadian Legal System Classification Guide ## Understanding Categories and Principles of Canadian Law | Law Category | Definition | Key Features | Examples | Authority | |--------------|------------|--------------|----------|-----------| | **Criminal Law** | Deals with offenses against society | • Prosecution by the state
+• Beyond reasonable doubt standard | • Murder
+• Theft
+• Assault
+• Drug offenses | Federal government, Criminal Code of Canada | | **Constitutional Law** | Framework of government powers | • Supreme law
+• Division of powers
+• Rights & freedoms | • Charter rights
+• Federal vs provincial powers | Constitution Act, Supreme Court | | **Administrative Law** | Government agency rules & decisions | • Regulatory bodies
+• Tribunals | • Immigration
+• Tax rules
+• Licensing | Various government agencies & tribunals | ### Private Law Categories | Law Category | Definition | Key Features | Examples | Authority | |--------------|------------|--------------|----------|-----------| | **Tort Law** | Civil wrongs & injuries | • Compensation
+• Balance of probabilities | • Negligence
+• Defamation
+• Trespassing | Common law precedents | | **Family Law** | Domestic relations & obligations | • Best interests of child
+• Support obligations | • Divorce
+• Custody
+• Adoption | Federal & provincial legislation | | **Contract Law** | Agreements & obligations between parties | • Offer & acceptance
+• Consideration | • Business deals
+• Employment contracts | Common law & specific statutes | ### Specialized Areas of Law | Law Category | Definition | Key Features | Examples | Authority | |--------------|------------|--------------|----------|-----------| | **Labour Law** | Employment & workplace relations | • Worker rights
+• Collective bargaining | • Unions
+• Workplace safety | Provincial & federal legislation | | **Environmental Law** | Protection of natural resources | • Regulations
+• Enforcement
+• Compliance | • Pollution control
+• Wildlife protection | Federal & provincial agencies | ### Fundamental Principles of Justice | Principle | Description | Application | |-----------|-------------|-------------| | **Rule of Law** | Everyone is subject to the law | Applies to citizens and government officials alike | | **Parliamentary Supremacy** | Parliament is highest law-making authority | Establishes legislative hierarchy | | **Presumption of Innocence** | Accused are innocent until proven guilty | Fundamental to criminal proceedings | | **Equality Before the Law** | All persons treated equally under law | Universal application of legal rights | | **Right of Habeas Corpus** | Protection against unlawful detention | Safeguards personal freedom | ### Important Notes: - Laws can overlap across multiple categories - Provincial and federal jurisdictions may share authority - Common law principles evolve through court decisions - Charter rights influence all categories of law ### Real-World Applications: 1. A single incident may involve multiple areas of law (e.g., workplace accident could involve criminal, tort, labour, and administrative law) 2. Laws adapt to social changes and technological advances 3. Different procedures and standards of proof apply to different categories 4. Rights and obligations vary based on the specific area of law [Word count: 1028]

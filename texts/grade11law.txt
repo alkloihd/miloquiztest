@@ -1,0 +1,92 @@
+Landmark Canadian Court Cases: A Journey Through Our Legal System
+Case Study 1: R v Oakes (1986) - Defining Charter Rights and the Role of Courts
+Background:
+The case of R v Oakes represents one of the most significant decisions in Canadian constitutional law, demonstrating how cases progress through our court system while establishing crucial legal precedents. David Oakes was charged under the Narcotic Control Act, which contained a reverse onus provision presuming an intention to traffic based solely on possession.
+
+Court Journey:
+
+Provincial Court Level
+• Initial trial at the Ontario Provincial Court
+• Evidence presented: Oakes possessed eight vials of hash oil
+• Defense challenged the constitutionality of the reverse onus provision
+• Court found the provision violated the presumption of innocence
+
+Ontario Court of Appeal
+• Crown appealed the decision
+• Three-judge panel heard arguments about Charter rights
+• Court upheld the lower court's decision
+• Established initial framework for Charter analysis
+
+Supreme Court of Canada
+• Final appeal heard in 1986
+• Chief Justice Dickson delivered unanimous decision
+• Created the "Oakes Test" for Charter rights limitations
+• Set precedent for how courts evaluate Charter violations
+
+Case Study 2: Delgamuukw v British Columbia (1997) - Aboriginal Rights and Court Hierarchy
+Background:
+This landmark case illustrates the complex relationship between different court levels and their roles in addressing constitutional matters, particularly regarding Indigenous rights and title.
+
+Court Journey:
+
+British Columbia Supreme Court (Trial Level)
+• Initial trial lasted 374 days
+• Over 50 witnesses testified
+• Chief Justice McEachern dismissed the claim
+• Rejected oral histories as reliable evidence
+
+British Columbia Court of Appeal
+• Partial success for Indigenous appellants
+• Modified trial judge's ruling
+• Recognized some Aboriginal rights
+• Split decision on title claims
+
+Supreme Court of Canada
+• Landmark decision in 1997
+• Established test for Aboriginal title
+• Recognized oral histories as valid evidence
+• Ordered new trial (never held due to negotiations)
+
+Case Study 3: Carter v Canada (2015) - Modern Court Interactions
+Background:
+This recent case demonstrates how modern courts interact with legislative and executive branches while addressing complex social issues.
+
+Court Journey:
+
+British Columbia Supreme Court
+• Trial judge found prohibition unconstitutional
+• Extensive evidence from multiple jurisdictions
+• Comprehensive analysis of Charter rights
+• Government appealed decision
+
+British Columbia Court of Appeal
+• Reversed trial decision
+• Found court bound by Rodriguez precedent
+• Split decision on constitutional issues
+• Case proceeded to Supreme Court
+
+Supreme Court of Canada
+• Unanimous decision in 2015
+• Struck down assisted dying prohibition
+• Gave Parliament time to draft new legislation
+• Demonstrated court-legislature interaction
+
+Analysis Questions for Students
+How does each case demonstrate the interaction between different court levels?
+What role did each court level play in developing the final outcomes?
+How did the Supreme Court's decisions influence future legislation?
+What patterns can you identify in how cases progress through the system?
+Related Images:
+
+1. Canadian Supreme Court Building Link: https://www.scc-csc.ca/court-cour/image-eng.aspx Search terms: "Supreme Court of Canada building Ottawa"
+
+2. Canadian Court System Hierarchy Diagram Link: https://www.justice.gc.ca/eng/csj-sjc/ccs-ajc/images/ Search terms: "Canadian court system hierarchy chart"
+
+3. Historical Photos of Landmark Cases Link: https://www.canadiana.ca/legal-history-images Search terms: "Canadian landmark court cases historical photos"
+
+Key Learning Points
+Court decisions at each level can significantly impact final outcomes
+Higher courts can overturn or modify lower court decisions
+Different courts have distinct jurisdictions and roles
+Cases often involve multiple legal issues and Charter rights
+Courts interact with other government branches throughout the process
