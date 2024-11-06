@@ -1,0 +1,129 @@
+{
+    "quizTitle": "Earth's Water Bodies and Systems Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fillInTheBlank",
+        "question": "1. The _____ refers to all the water on Earth, including oceans, rivers, lakes, and glaciers.",
+        "answers": ["hydrosphere"]
+      },
+      {
+        "id": 2,
+        "type": "fillInTheBlank",
+        "question": "2. The _____ Ocean is the largest, while the _____ Ocean is the smallest among Earth's five major oceans.",
+        "answers": ["Pacific", "Arctic"]
+      },
+      {
+        "id": 3,
+        "type": "fillInTheBlank",
+        "question": "3. _____ is the process in the water cycle where water turns into vapor, while _____ occurs when vapor cools and forms clouds.",
+        "answers": ["Evaporation", "condensation"]
+      },
+      {
+        "id": 4,
+        "type": "fillInTheBlank",
+        "question": "4. Most of Earth's water, about _____ percent, is found in the oceans.",
+        "answers": ["97"]
+      },
+      {
+        "id": 5,
+        "type": "fillInTheBlank",
+        "question": "5. The _____ current in the Atlantic Ocean plays a significant role in distributing heat around Earth.",
+        "answers": ["Gulf Stream"]
+      },
+      
+      {
+        "id": 6,
+        "type": "trueFalse",
+        "question": "1. The hydrosphere includes only saltwater bodies on Earth.",
+        "answer": false
+      },
+      {
+        "id": 7,
+        "type": "trueFalse",
+        "question": "2. Rivers are essential for transportation, irrigation, and supporting ecosystems.",
+        "answer": true
+      },
+      {
+        "id": 8,
+        "type": "trueFalse",
+        "question": "3. The Caspian Sea is considered a lake even though it’s called a sea.",
+        "answer": true
+      },
+      {
+        "id": 9,
+        "type": "trueFalse",
+        "question": "4. The Antarctic Circumpolar Current is found in the Arctic Ocean.",
+        "answer": false
+      },
+      {
+        "id": 10,
+        "type": "trueFalse",
+        "question": "5. In the water cycle, water collection only occurs in oceans.",
+        "answer": false
+      },
+  
+      {
+        "id": 11,
+        "type": "shortAnswer",
+        "question": "1. Explain the importance of Earth's oceans in regulating the climate."
+      },
+      {
+        "id": 12,
+        "type": "shortAnswer",
+        "question": "2. Describe the role of drainage basins in a river system."
+      },
+      {
+        "id": 13,
+        "type": "shortAnswer",
+        "question": "3. Why is the water cycle essential for life on Earth?"
+      },
+      {
+        "id": 14,
+        "type": "shortAnswer",
+        "question": "4. How do ocean currents help in the distribution of nutrients across the globe?"
+      },
+      {
+        "id": 15,
+        "type": "shortAnswer",
+        "question": "5. What might happen to the ecosystem if one part of the water cycle were disrupted?"
+      },
+  
+      {
+        "id": 16,
+        "type": "multipleChoice",
+        "question": "1. Which of these rivers is the longest in the world?",
+        "options": ["Amazon River", "Yangtze River", "Mississippi River", "Nile River"],
+        "answer": "Nile River"
+      },
+      {
+        "id": 17,
+        "type": "multipleChoice",
+        "question": "2. What percentage of Earth's water is freshwater?",
+        "options": ["3%", "5%", "10%", "15%"],
+        "answer": "3%"
+      },
+      {
+        "id": 18,
+        "type": "multipleChoice",
+        "question": "3. Which process in the water cycle directly follows evaporation?",
+        "options": ["Condensation", "Precipitation", "Collection", "Infiltration"],
+        "answer": "Condensation"
+      },
+      {
+        "id": 19,
+        "type": "multipleChoice",
+        "question": "4. Which of the following is NOT a major role of rivers?",
+        "options": ["Providing habitats", "Acting as drainage basins", "Producing saltwater", "Supporting ecosystems"],
+        "answer": "Producing saltwater"
+      },
+      {
+        "id": 20,
+        "type": "multipleChoice",
+        "question": "5. Which current is known for transporting warm water from the Gulf of Mexico to the North Atlantic?",
+        "options": ["Kuroshio Current", "Antarctic Circumpolar Current", "Gulf Stream", "Indian Ocean Gyre"],
+        "answer": "Gulf Stream"
+      }
+    ]
+  }
+  

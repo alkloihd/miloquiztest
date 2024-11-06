@@ -1,0 +1,125 @@
+{
+    "quizTitle": "Canadian Legal System Classification Guide",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fillInTheBlank",
+        "question": "1. _____ Law deals with offenses against society and includes crimes like murder and theft.",
+        "answers": ["Criminal"]
+      },
+      {
+        "id": 2,
+        "type": "fillInTheBlank",
+        "question": "2. The highest law in Canada, outlining government powers and rights, is known as _____ Law.",
+        "answers": ["Constitutional"]
+      },
+      {
+        "id": 3,
+        "type": "fillInTheBlank",
+        "question": "3. _____ Law involves civil wrongs and injuries, such as negligence and defamation.",
+        "answers": ["Tort"]
+      },
+      {
+        "id": 4,
+        "type": "fillInTheBlank",
+        "question": "4. The principle that everyone is subject to the law is called the _____ of Law.",
+        "answers": ["Rule"]
+      },
+      {
+        "id": 5,
+        "type": "fillInTheBlank",
+        "question": "5. In _____ Law, agreements and obligations between parties are governed by offer, acceptance, and consideration.",
+        "answers": ["Contract"]
+      },
+      {
+        "id": 6,
+        "type": "trueFalse",
+        "question": "1. Administrative Law primarily deals with criminal offenses such as murder and theft.",
+        "answer": false
+      },
+      {
+        "id": 7,
+        "type": "trueFalse",
+        "question": "2. The Constitution Act is a key authority in Constitutional Law.",
+        "answer": true
+      },
+      {
+        "id": 8,
+        "type": "trueFalse",
+        "question": "3. Labour Law focuses on employment and workplace relations, including worker rights and collective bargaining.",
+        "answer": true
+      },
+      {
+        "id": 9,
+        "type": "trueFalse",
+        "question": "4. The principle of Parliamentary Supremacy means that the judiciary is the highest law-making authority.",
+        "answer": false
+      },
+      {
+        "id": 10,
+        "type": "trueFalse",
+        "question": "5. Environmental Law includes regulations and enforcement related to pollution control and wildlife protection.",
+        "answer": true
+      },
+      {
+        "id": 11,
+        "type": "multipleChoice",
+        "question": "1. Which area of law deals with domestic relations and obligations such as divorce and custody?",
+        "options": ["Criminal Law", "Family Law", "Administrative Law", "Tort Law"],
+        "answer": "Family Law"
+      },
+      {
+        "id": 12,
+        "type": "multipleChoice",
+        "question": "2. What is a key feature of Constitutional Law?",
+        "options": ["Compensation for injuries", "Regulatory bodies", "Division of powers", "Collective bargaining"],
+        "answer": "Division of powers"
+      },
+      {
+        "id": 13,
+        "type": "multipleChoice",
+        "question": "3. Which principle ensures that all persons are treated equally under the law?",
+        "options": ["Rule of Law", "Parliamentary Supremacy", "Equality Before the Law", "Presumption of Innocence"],
+        "answer": "Equality Before the Law"
+      },
+      {
+        "id": 14,
+        "type": "multipleChoice",
+        "question": "4. Which area of law would most likely handle immigration and licensing issues?",
+        "options": ["Environmental Law", "Administrative Law", "Contract Law", "Labour Law"],
+        "answer": "Administrative Law"
+      },
+      {
+        "id": 15,
+        "type": "multipleChoice",
+        "question": "5. The 'Presumption of Innocence' is a fundamental principle of which area of justice?",
+        "options": ["Criminal Law", "Family Law", "Contract Law", "Environmental Law"],
+        "answer": "Criminal Law"
+      },
+      {
+        "id": 16,
+        "type": "shortAnswer",
+        "question": "1. Describe the key features of Administrative Law and provide two examples."
+      },
+      {
+        "id": 17,
+        "type": "shortAnswer",
+        "question": "2. Explain the principle of Parliamentary Supremacy and its significance in the Canadian legal system."
+      },
+      {
+        "id": 18,
+        "type": "shortAnswer",
+        "question": "3. How does Tort Law differ from Criminal Law in terms of objectives and outcomes?"
+      },
+      {
+        "id": 19,
+        "type": "shortAnswer",
+        "question": "4. Discuss the importance of the 'Rule of Law' in maintaining justice within society."
+      },
+      {
+        "id": 20,
+        "type": "shortAnswer",
+        "question": "5. Provide an example of how different areas of law can overlap in a real-world scenario."
+      }
+    ]
+  }

@@ -1,0 +1,225 @@
+{
+    "quizTitle": "Assessment: Understanding Biodiversity and Classification",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fillInTheBlank",
+        "question": "1. Biodiversity is essential for _____, which allows ecosystems to recover from disturbances.",
+        "answers": ["ecosystem stability"]
+      },
+      {
+        "id": 2,
+        "type": "fillInTheBlank",
+        "question": "2. In the classification system, _____ diversity refers to the variety of ecosystems, such as forests and grasslands, within a region.",
+        "answers": ["ecosystem"]
+      },
+      {
+        "id": 3,
+        "type": "fillInTheBlank",
+        "question": "3. The presence of top predators like _____ is crucial for maintaining the balance of the rainforest ecosystem.",
+        "answers": ["harpy eagle"]
+      },
+      {
+        "id": 4,
+        "type": "fillInTheBlank",
+        "question": "4. Genetic diversity within a species, such as different breeds of dogs, enhances the species' ability to _____ in changing environments.",
+        "answers": ["adapt"]
+      },
+      {
+        "id": 5,
+        "type": "fillInTheBlank",
+        "question": "5. _____ organisms, like fungi and bacteria, play a key role in nutrient cycling by breaking down dead matter.",
+        "answers": ["decomposer"]
+      },
+      {
+        "id": 6,
+        "type": "fillInTheBlank",
+        "question": "6. _____ diversity in a coral reef ecosystem contributes to its resilience against environmental changes.",
+        "answers": ["Species"]
+      },
+      {
+        "id": 7,
+        "type": "fillInTheBlank",
+        "question": "7. The _____ layer of the rainforest canopy supports a wide variety of plant and animal life, contributing to high species diversity.",
+        "answers": ["canopy"]
+      },
+      {
+        "id": 8,
+        "type": "fillInTheBlank",
+        "question": "8. Climate change poses a threat to biodiversity by altering _____ patterns that many species depend on.",
+        "answers": ["weather"]
+      },
+      {
+        "id": 9,
+        "type": "fillInTheBlank",
+        "question": "9. _____ species, such as leaf-cutter ants, contribute to ecosystem stability by regulating plant growth and decomposition.",
+        "answers": ["keystone"]
+      },
+      {
+        "id": 10,
+        "type": "fillInTheBlank",
+        "question": "10. The process of seed dispersal by animals like toucans helps to maintain _____ diversity within the rainforest.",
+        "answers": ["genetic"]
+      },
+  
+      {
+        "id": 11,
+        "type": "trueFalse",
+        "question": "1. Genetic diversity helps species adapt to changing environments.",
+        "answer": true
+      },
+      {
+        "id": 12,
+        "type": "trueFalse",
+        "question": "2. Species diversity is not important for ecosystem resilience.",
+        "answer": false
+      },
+      {
+        "id": 13,
+        "type": "trueFalse",
+        "question": "3. Ecosystem diversity provides a range of habitats for species.",
+        "answer": true
+      },
+      {
+        "id": 14,
+        "type": "trueFalse",
+        "question": "4. Biodiversity has no impact on food security for humans.",
+        "answer": false
+      },
+      {
+        "id": 15,
+        "type": "trueFalse",
+        "question": "5. Habitat loss is a major threat to biodiversity.",
+        "answer": true
+      },
+      {
+        "id": 16,
+        "type": "trueFalse",
+        "question": "6. Toucans play a role in seed dispersal in the rainforest.",
+        "answer": true
+      },
+      {
+        "id": 17,
+        "type": "trueFalse",
+        "question": "7. The rainforest canopy is the bottom layer of the forest.",
+        "answer": false
+      },
+      {
+        "id": 18,
+        "type": "trueFalse",
+        "question": "8. Leaf-cutter ants harm the rainforest ecosystem by destroying leaves.",
+        "answer": false
+      },
+      {
+        "id": 19,
+        "type": "trueFalse",
+        "question": "9. The harpy eagle is a top predator that helps control prey populations.",
+        "answer": true
+      },
+      {
+        "id": 20,
+        "type": "trueFalse",
+        "question": "10. Invasive species have no effect on local ecosystems.",
+        "answer": false
+      },
+  
+      {
+        "id": 21,
+        "type": "shortAnswer",
+        "question": "1. Define biodiversity and explain its importance to the health of our planet."
+      },
+      {
+        "id": 22,
+        "type": "shortAnswer",
+        "question": "2. Describe the three levels of biodiversity and provide an example for each."
+      },
+      {
+        "id": 23,
+        "type": "shortAnswer",
+        "question": "3. Explain how leaf-cutter ants contribute to nutrient cycling in the rainforest."
+      },
+      {
+        "id": 24,
+        "type": "shortAnswer",
+        "question": "4. What are some major threats to biodiversity, and how do they impact ecosystems?"
+      },
+      {
+        "id": 25,
+        "type": "shortAnswer",
+        "question": "5. How do toucans and howler monkeys contribute to genetic diversity in the rainforest?"
+      },
+      {
+        "id": 26,
+        "type": "shortAnswer",
+        "question": "6. List and describe the roles of at least five organisms found in the rainforest ecosystem connections web."
+      },
+      {
+        "id": 27,
+        "type": "shortAnswer",
+        "question": "7. Explain why biodiversity at all levels is important for ecosystem stability and resilience."
+      },
+      {
+        "id": 28,
+        "type": "shortAnswer",
+        "question": "8. Discuss how human activities can both positively and negatively impact biodiversity."
+      },
+  
+      {
+        "id": 29,
+        "type": "multipleChoice",
+        "question": "1. What is the primary energy source for the rainforest ecosystem?",
+        "options": ["Water", "Soil", "Sunlight", "Nutrients"],
+        "answer": "Sunlight"
+      },
+      {
+        "id": 30,
+        "type": "multipleChoice",
+        "question": "2. Which of the following is an example of ecosystem diversity?",
+        "options": ["Different breeds of dogs", "Various species of birds in a forest", "Forests, grasslands, and tundra in Canada", "Genetic variations within a species"],
+        "answer": "Forests, grasslands, and tundra in Canada"
+      },
+      {
+        "id": 31,
+        "type": "multipleChoice",
+        "question": "3. What role do harpy eagles play in the rainforest ecosystem?",
+        "options": ["Pollinating flowers", "Seed dispersal", "Controlling prey populations", "Decomposing dead matter"],
+        "answer": "Controlling prey populations"
+      },
+      {
+        "id": 32,
+        "type": "multipleChoice",
+        "question": "4. How do leaf-cutter ants contribute to the rainforest ecosystem?",
+        "options": ["By pollinating plants", "By regulating plant growth and decomposition", "By dispersing seeds", "By controlling insect populations"],
+        "answer": "By regulating plant growth and decomposition"
+      },
+      {
+        "id": 33,
+        "type": "multipleChoice",
+        "question": "5. Why is genetic diversity important within a species?",
+        "options": ["It increases the number of species in an ecosystem", "It helps species adapt to changing environments", "It reduces competition among individuals", "It promotes uniformity within the population"],
+        "answer": "It helps species adapt to changing environments"
+      },
+      {
+        "id": 34,
+        "type": "multipleChoice",
+        "question": "6. Which of the following is NOT a threat to biodiversity?",
+        "options": ["Habitat loss", "Climate change", "Pollution", "Natural predator-prey relationships"],
+        "answer": "Natural predator-prey relationships"
+      },
+      {
+        "id": 35,
+        "type": "multipleChoice",
+        "question": "7. What system in the rainforest is responsible for breaking down dead organic matter?",
+        "options": ["Respiratory System", "Decomposer Organisms", "Canopy Layer", "Predatory Species"],
+        "answer": "Decomposer Organisms"
+      },
+      {
+        "id": 36,
+        "type": "multipleChoice",
+        "question": "8. How do toucans contribute to genetic diversity in the rainforest?",
+        "options": ["By pollinating a wide variety of plants", "By dispersing seeds through their droppings", "By controlling insect populations", "By decomposing organic matter"],
+        "answer": "By dispersing seeds through their droppings"
+      }
+    ]
+  }
+  

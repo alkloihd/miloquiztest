@@ -1,0 +1,226 @@
+{
+    "quizTitle": "Landmark Canadian Court Cases: A Journey Through Our Legal System",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fillInTheBlank",
+        "question": "1. The case of _____ v _____ (1986) is significant for defining Charter rights and the role of courts.",
+        "answers": ["R", "Oakes"]
+      },
+      {
+        "id": 2,
+        "type": "fillInTheBlank",
+        "question": "2. In R v Oakes, the reverse onus provision was found to violate the _____ of _____.",
+        "answers": ["presumption", "innocence"]
+      },
+      {
+        "id": 3,
+        "type": "fillInTheBlank",
+        "question": "3. The _____ Court of Appeal upheld the lower court's decision in R v Oakes.",
+        "answers": ["Ontario"]
+      },
+      {
+        "id": 4,
+        "type": "fillInTheBlank",
+        "question": "4. The _____ Test was created by the _____ Court in the case of R v Oakes.",
+        "answers": ["Oakes", "Supreme"]
+      },
+      {
+        "id": 5,
+        "type": "fillInTheBlank",
+        "question": "5. In Delgamuukw v British Columbia (1997), the _____ Court established a test for Aboriginal _____.",
+        "answers": ["Supreme", "title"]
+      },
+      {
+        "id": 6,
+        "type": "fillInTheBlank",
+        "question": "6. The British Columbia Supreme Court trial in Delgamuukw lasted _____ days.",
+        "answers": ["374"]
+      },
+      {
+        "id": 7,
+        "type": "fillInTheBlank",
+        "question": "7. In Carter v Canada (2015), the Supreme Court of Canada struck down the _____ prohibition.",
+        "answers": ["assisted dying"]
+      },
+      {
+        "id": 8,
+        "type": "fillInTheBlank",
+        "question": "8. The Supreme Court's decision in Carter v Canada (2015) demonstrated _____ interaction.",
+        "answers": ["court-legislature"]
+      },
+      {
+        "id": 9,
+        "type": "fillInTheBlank",
+        "question": "9. In Delgamuukw v British Columbia, the trial court rejected _____ histories as reliable evidence.",
+        "answers": ["oral"]
+      },
+      {
+        "id": 10,
+        "type": "fillInTheBlank",
+        "question": "10. In Carter v Canada (2015), the Supreme Court gave Parliament _____ to draft new legislation.",
+        "answers": ["time"]
+      },
+      {
+        "id": 11,
+        "type": "trueFalse",
+        "question": "1. In R v Oakes, the reverse onus provision was upheld by the Supreme Court of Canada.",
+        "answer": false
+      },
+      {
+        "id": 12,
+        "type": "trueFalse",
+        "question": "2. The 'Oakes Test' is used to evaluate limitations on Charter rights.",
+        "answer": true
+      },
+      {
+        "id": 13,
+        "type": "trueFalse",
+        "question": "3. In Delgamuukw v British Columbia, the Supreme Court recognized some Aboriginal rights.",
+        "answer": true
+      },
+      {
+        "id": 14,
+        "type": "trueFalse",
+        "question": "4. The British Columbia Supreme Court found the reverse onus provision constitutional in R v Oakes.",
+        "answer": false
+      },
+      {
+        "id": 15,
+        "type": "trueFalse",
+        "question": "5. In Carter v Canada (2015), the trial judge found the assisted dying prohibition unconstitutional.",
+        "answer": true
+      },
+      {
+        "id": 16,
+        "type": "trueFalse",
+        "question": "6. The Ontario Court of Appeal established the initial framework for Charter analysis in R v Oakes.",
+        "answer": true
+      },
+      {
+        "id": 17,
+        "type": "trueFalse",
+        "question": "7. In Delgamuukw v British Columbia, the trial court accepted oral histories as reliable evidence.",
+        "answer": false
+      },
+      {
+        "id": 18,
+        "type": "trueFalse",
+        "question": "8. The Supreme Court of Canada ordered a new trial in Carter v Canada (2015).",
+        "answer": true
+      },
+      {
+        "id": 19,
+        "type": "trueFalse",
+        "question": "9. In R v Oakes, David Oakes was charged under the Narcotic Control Act.",
+        "answer": true
+      },
+      {
+        "id": 20,
+        "type": "trueFalse",
+        "question": "10. The case of Carter v Canada (2015) was decided in 1986.",
+        "answer": false
+      },
+      {
+        "id": 21,
+        "type": "multipleChoice",
+        "question": "1. Who delivered the unanimous decision in the Supreme Court of Canada for R v Oakes?",
+        "options": ["Chief Justice Dickson", "Chief Justice McEachern", "Justice Rodriguez", "Justice Dickson"],
+        "answer": "Chief Justice Dickson"
+      },
+      {
+        "id": 22,
+        "type": "multipleChoice",
+        "question": "2. What was David Oakes charged under in R v Oakes?",
+        "options": ["Criminal Code", "Narcotic Control Act", "Immigration Act", "Constitution Act"],
+        "answer": "Narcotic Control Act"
+      },
+      {
+        "id": 23,
+        "type": "multipleChoice",
+        "question": "3. In Delgamuukw v British Columbia, what did the British Columbia Supreme Court initially reject?",
+        "options": ["Aboriginal rights", "Oral histories", "Environmental protection", "Economic claims"],
+        "answer": "Oral histories"
+      },
+      {
+        "id": 24,
+        "type": "multipleChoice",
+        "question": "4. What test did the Supreme Court of Canada create in R v Oakes?",
+        "options": ["Brown Test", "Oakes Test", "Smith Test", "Delgamuukw Test"],
+        "answer": "Oakes Test"
+      },
+      {
+        "id": 25,
+        "type": "multipleChoice",
+        "question": "5. What was the duration of the initial trial in Delgamuukw v British Columbia?",
+        "options": ["200 days", "374 days", "100 days", "50 days"],
+        "answer": "374 days"
+      },
+      {
+        "id": 26,
+        "type": "multipleChoice",
+        "question": "6. Which court established a test for Aboriginal title in Delgamuukw v British Columbia?",
+        "options": ["Ontario Provincial Court", "Ontario Court of Appeal", "British Columbia Supreme Court", "Supreme Court of Canada"],
+        "answer": "Supreme Court of Canada"
+      },
+      {
+        "id": 27,
+        "type": "multipleChoice",
+        "question": "7. In Carter v Canada (2015), what did the Supreme Court of Canada strike down?",
+        "options": ["Reverse onus provision", "Assisted dying prohibition", "Criminal Code amendment", "Environmental regulations"],
+        "answer": "Assisted dying prohibition"
+      },
+      {
+        "id": 28,
+        "type": "multipleChoice",
+        "question": "8. What was the Supreme Court's role in Carter v Canada (2015)?",
+        "options": ["Dismissed the case", "Upheld the prohibition", "Struck down the prohibition and ordered new legislation", "Sent the case back to lower court"],
+        "answer": "Struck down the prohibition and ordered new legislation"
+      },
+      {
+        "id": 29,
+        "type": "multipleChoice",
+        "question": "9. In R v Oakes, what was the possession amount that David Oakes had?",
+        "options": ["Five vials of hash oil", "Eight vials of hash oil", "Ten vials of hash oil", "Three vials of hash oil"],
+        "answer": "Eight vials of hash oil"
+      },
+      {
+        "id": 30,
+        "type": "multipleChoice",
+        "question": "10. What did the British Columbia Court of Appeal recognize in Delgamuukw v British Columbia?",
+        "options": ["Complete Aboriginal title", "No Aboriginal rights", "Some Aboriginal rights", "Environmental rights"],
+        "answer": "Some Aboriginal rights"
+      },
+      {
+        "id": 31,
+        "type": "shortAnswer",
+        "question": "1. Explain the significance of the 'Oakes Test' in Canadian constitutional law."
+      },
+      {
+        "id": 32,
+        "type": "shortAnswer",
+        "question": "2. Describe how the Supreme Court of Canada's decision in Carter v Canada (2015) influenced future legislation."
+      },
+      {
+        "id": 33,
+        "type": "shortAnswer",
+        "question": "3. What patterns can you identify in how cases progress through the Canadian court system?"
+      },
+      {
+        "id": 34,
+        "type": "shortAnswer",
+        "question": "4. How do higher courts impact lower court decisions based on the provided case studies?"
+      },
+      {
+        "id": 35,
+        "type": "shortAnswer",
+        "question": "5. Discuss the role of oral histories in the Delgamuukw v British Columbia case."
+      },
+      {
+        "id": 36,
+        "type": "shortAnswer",
+        "question": "6. What impact did the Supreme Court's decisions have on future constitutional law in Canada?"
+      }
+    ]
+  }
+  

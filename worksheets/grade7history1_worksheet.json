@@ -1,0 +1,128 @@
+{
+    "quizTitle": "Canada in 1800: A Nation at the Crossroads",
+    "questions": [
+      {
+        "id": 1,
+        "type": "fillInTheBlank",
+        "question": "1. The _____ Act of 1791 divided Quebec into Upper and Lower Canada.",
+        "answers": ["Constitutional"]
+      },
+      {
+        "id": 2,
+        "type": "fillInTheBlank",
+        "question": "2. The seigneurial system, used primarily in _____ Canada, structured land ownership and management.",
+        "answers": ["Lower"]
+      },
+      {
+        "id": 3,
+        "type": "fillInTheBlank",
+        "question": "3. The ____ were fur traders and settlers who developed a unique culture from relationships between Indigenous women and European men.",
+        "answers": ["Métis"]
+      },
+      {
+        "id": 4,
+        "type": "fillInTheBlank",
+        "question": "4. In 1800, the primary economic activity in coastal Canada was _____ trade.",
+        "answers": ["maritime"]
+      },
+      {
+        "id": 5,
+        "type": "fillInTheBlank",
+        "question": "5. Indigenous communities like the _____ maintained traditional governance structures amidst European expansion.",
+        "answers": ["Haudenosaunee", "Anishinaabe", "Mi'kmaq"]
+      },
+  
+      {
+        "id": 6,
+        "type": "trueFalse",
+        "question": "1. The British colonial administration allowed for significant self-governance in Canada in 1800.",
+        "answer": false
+      },
+      {
+        "id": 7,
+        "type": "trueFalse",
+        "question": "2. The Métis communities in Canada were primarily involved in agricultural activities.",
+        "answer": false
+      },
+      {
+        "id": 8,
+        "type": "trueFalse",
+        "question": "3. The Constitutional Act of 1791 was responsible for creating a division between Upper and Lower Canada.",
+        "answer": true
+      },
+      {
+        "id": 9,
+        "type": "trueFalse",
+        "question": "4. Indigenous peoples traded with European settlers but faced pressure to adapt to European ways of life.",
+        "answer": true
+      },
+      {
+        "id": 10,
+        "type": "trueFalse",
+        "question": "5. By 1800, Canada’s economy was diversifying beyond the fur trade.",
+        "answer": true
+      },
+  
+      {
+        "id": 11,
+        "type": "shortAnswer",
+        "question": "1. Describe how the British colonies in Canada were structured socially and politically in 1800."
+      },
+      {
+        "id": 12,
+        "type": "shortAnswer",
+        "question": "2. Explain the role of the seigneurial system in French-speaking communities in Lower Canada."
+      },
+      {
+        "id": 13,
+        "type": "shortAnswer",
+        "question": "3. How did the Métis communities bridge Indigenous and European societies, particularly in terms of trade?"
+      },
+      {
+        "id": 14,
+        "type": "shortAnswer",
+        "question": "4. What were some of the challenges faced by First Nations communities due to European expansion?"
+      },
+      {
+        "id": 15,
+        "type": "shortAnswer",
+        "question": "5. Discuss the key economic activities in early Canada and how they differed by region."
+      },
+  
+      {
+        "id": 16,
+        "type": "multipleChoice",
+        "question": "1. Which group maintained the seigneurial land management system?",
+        "options": ["British settlers", "French-speaking communities", "Métis communities", "Inuit peoples"],
+        "answer": "French-speaking communities"
+      },
+      {
+        "id": 17,
+        "type": "multipleChoice",
+        "question": "2. The Constitutional Act of 1791 primarily affected which part of Canada?",
+        "options": ["Upper and Lower Canada", "Maritime Provinces", "Inuit Territories", "Northwest Territories"],
+        "answer": "Upper and Lower Canada"
+      },
+      {
+        "id": 18,
+        "type": "multipleChoice",
+        "question": "3. What was the main occupation of the Métis communities?",
+        "options": ["Agriculture", "Fur trade", "Mining", "Timber trade"],
+        "answer": "Fur trade"
+      },
+      {
+        "id": 19,
+        "type": "multipleChoice",
+        "question": "4. Which Indigenous community was involved in trade with European settlers?",
+        "options": ["Haudenosaunee", "British settlers", "Upper Canada", "Lower Canada"],
+        "answer": "Haudenosaunee"
+      },
+      {
+        "id": 20,
+        "type": "multipleChoice",
+        "question": "5. Which group in Canada relied on hunting and gathering patterns to survive the Arctic environment?",
+        "options": ["Métis", "British settlers", "Inuit", "French-speaking communities"],
+        "answer": "Inuit"
+      }
+    ]
+  }
